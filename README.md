@@ -1,4 +1,4 @@
-# Project 
+# Metacrafters: Project 
 In this project I made a simple `AgeRestrictionClub` contract designed to check if someone is eligible to enter a club based on their age. 
 
 ## Project requirments:
