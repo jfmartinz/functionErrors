@@ -1,5 +1,5 @@
 # Metacrafters: Project 
-In this project I made a simple `AgeRestrictionClub` contract designed to check if someone is eligible to enter a club based on their age. 
+In this project I made a simple `club` contract designed to check if someone is eligible to enter a club based on their age. 
 
 ## Project requirments:
 For this project, write a smart contract that implements the `require()`, `assert()` and `revert()` statements. 
